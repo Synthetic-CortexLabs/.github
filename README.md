@@ -2,7 +2,8 @@
 
 ![Synthetic-CortexLabs Logo](https://path_to_your_logo/logo.png)
 
-**Synthetic-CortexLabs** is your go-to hub for transforming cutting-edge AI research into real-world, kick-ass software solutions! 🌟 Our mission? To harness the full power of advanced artificial intelligence, making it not just smart, but also accessible, reliable, and downright revolutionary.
+**Synthetic-CortexLabs** is your go-to hub for transforming cutting-edge AI research into real-world, kick-ass software solutions! 🌟 Our mission? To harness the full power of advanced artificial intelligence, making it not just smart, but also accessible, reliable, and downright revolutionary. \
+We are primarily a research lab, yet our expertise in software allows us to have an engineering branch to create advanced softwares.
 
 ## Our Vision 🌍
 
