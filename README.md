@@ -3,7 +3,7 @@
 <!-- ![Synthetic-CortexLabs Logo](https://github.com/Synthetic-CortexLabs/.github/blob/main/plasma_brain.jpg) -->
 
 **Synthetic-CortexLabs** is your go-to hub for transforming cutting-edge AI research into real-world, kick-ass software solutions! 🌟 Our mission? To harness the full power of advanced artificial intelligence, making it not just smart, but also accessible, reliable, and downright revolutionary. \
-We are primarily a research lab, yet our expertise in software allows us to have an engineering branch to create advanced softwares.
+We're primarily a research lab, We focus on completely new foundational techniques to emulate human cognition, including deep learning, natural language processing, cognitive computing, and reinforcement learning. Yet our software expertise enables us to develop advanced applications.
 
 ## Our Vision 🌍
 
